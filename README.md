@@ -15,15 +15,15 @@ A third reason is because they are fun to design and build.
 
 # What writerDecks are available for purchase?
 
-Please see the [list of commercial writerDecks](https://www.reddit.com/r/writerDeck/comments/uw6vzw/commercially_available_writerdecks/).
+Please see the [list of commercial writerDecks](list-of-commercial-writerdecks.md).
 
 # What are some examples of writerDecks people have made themselves?
 
-Check out the [list of DIY writerDecks](https://www.reddit.com/r/writerDeck/comments/ux4s7o/a_list_of_every_diy_writerdeck/).
+Check out the [list of DIY writerDecks](list-of-diy-writerdecks.md).
 
 # Why wouldn't I just use my phone/tablet and a bluetooth keyboard?
 
-Many people do just that! The only downsides might be if you have other distracting apps (which you can always remove) and that you might have to juggle multiple devices (unless you attach them somehow). Here is a list of the many approaches people have taken with [phone/tablet writerDecks](https://www.reddit.com/r/writerDeck/comments/13ljz89/a_list_of_tablet_decks_phone_decks_and_other/).
+Many people do just that! The only downsides might be if you have other distracting apps (which you can always remove) and that you might have to juggle multiple devices (unless you attach them somehow). Here is a list of the many approaches people have taken with [phone/tablet writerDecks](list-of-tablet-writerdecks.md).
 
 # How do I make a writerDeck? Is it hard?
 
@@ -38,11 +38,11 @@ It's actually pretty easy! Unless you aren't very good with computers, or don't 
 - Some way to connect them all together
   - This is where you can really get creative. Lots of people 3D print cases, but you can also use wood, metal, found objects--anything at all!
 - Software to run on it, which generally breaks down to:
-  - **Operating System:** Usually some flavor of Linux, since it is free and stable. Raspberry Pi has its own OS, or you can use Ubuntu or anything really. I like to use a command line OS with no desktop like Raspberry Pi Lite because it feels much more like a dedicated device that way. You can set it up so when you turn it on it boots directly into your writing program without ever seeing a desktop, and then there is no possibility of getting distracted opening Firefox or whatever, because there is no Firefox! [Here is a quick breakdown](https://www.reddit.com/r/writerDeck/comments/v63o2c/how_to_create_a_singlepurpose_device_that_boots/) of the software stack I use to run my [WareWoolf Alpha writerDeck](https://www.reddit.com/r/writerDeck/comments/vcfbrq/finished_my_warewoolf_writerdeck_a_singlepurpose/) on a Raspberry Pi 4.
-  - **Writing Program:** Google Docs, [FocusWriter](https://gottcode.org/focuswriter/), [WordGrinder](http://cowlark.com/wordgrinder/index.html), your own custom code--this can be as simple or as complicated as you like. See the [software page](https://www.reddit.com/r/writerDeck/wiki/software/) of the wiki for more suggestions.
+  - **Operating System:** Usually some flavor of Linux, since it is free and stable. Raspberry Pi has its own OS, or you can use Ubuntu or anything really. I like to use a command line OS with no desktop like Raspberry Pi Lite because it feels much more like a dedicated device that way. You can set it up so when you turn it on it boots directly into your writing program without ever seeing a desktop, and then there is no possibility of getting distracted opening Firefox or whatever, because there is no Firefox! [Here is a quick breakdown](creating-single-app-devices.md) of the software stack I use to run my [WareWoolf Alpha writerDeck](https://www.reddit.com/r/writerDeck/comments/vcfbrq/finished_my_warewoolf_writerdeck_a_singlepurpose/) on a Raspberry Pi 4.
+  - **Writing Program:** Google Docs, [FocusWriter](https://gottcode.org/focuswriter/), [WordGrinder](http://cowlark.com/wordgrinder/index.html), your own custom code--this can be as simple or as complicated as you like. See the [software page](writerdeck-software.md).
 
-Does all that sound overwhelming to you, or painfully obvious? If the latter, you can do this no problem. If the former, you may need to take some time reading through the Raspberry Pi and CyberDeck subreddits and searching for basic tutorials for similar projects. Any kind of Raspberry Pi project will get you acquainted with the fundamentals, and then it's just a matter of tinkering.
+Does all that sound overwhelming to you, or painfully obvious? If the latter, you can do this no problem. If the former, you may need to take some time reading through Raspberry Pi and CyberDeck introductions and searching for basic tutorials for similar projects. Any kind of Raspberry Pi project will get you acquainted with the fundamentals, and then it's just a matter of tinkering.
 
 # WriterDeck Friendly Software
 
-Please see the [software page](https://www.reddit.com/r/writerDeck/wiki/software/) of the wiki.
+Please see the [software page](writerdeck-software.md).
