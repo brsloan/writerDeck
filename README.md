@@ -1,4 +1,8 @@
-# writerDeck
+# writerDeck.org
+![banner of different writerdecks](/images/banner.jpg)
+
+Helping writers escape the thrall of technology by selectively giving in to it.
+
 # What is a writerDeck?
 
 A writerDeck is a device dedicated specifically and solely to writing. Technically, a typewriter is an analog writerDeck. But usually we mean some sort of computerized word processor, such as the [Astrohaus Freewrite](https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen) or the [Alphasmart Neo](https://duckduckgo.com/?q=alphasmart+neo&t=h_&iax=images&ia=images), to name two of the most popular mass-produced versions. But these tend to be either too expensive or too limited for many writers, so many of us build our own.
