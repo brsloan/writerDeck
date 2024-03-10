@@ -10,7 +10,7 @@ A quick list is followed by details below.
 | Alphasmart Neo / Neo2* | $50-80 USD | ![a curvey dark gray plastic bodied keyboard device with a taller LCD display](/images/commercial/alphaSmart-neo-2.jpg) |
 | Alphasmart Dana* | $50-80 | ![ curvey dark gray plastic bodied keyboard device with an even taller LCD display](/images/commercial/alphasmart-dana_gene-wilburn.jpg) |
 | Alphasmart 3000* | $50-80 | ![ curvey dark gray plastic bodied keyboard device with a thin LCD display](/images/commercial/alphasmart-3000_quinby.jpg) |
-| The Writer Fusion | $25-50 | ![a rectangular 80s looking keyboard contraptio with a big old style lcd display](/images//commercial/writer-fusion.jpg) |
+| The Writer Fusion* | $25-50 | ![a rectangular 80s looking keyboard contraptio with a big old style lcd display](/images//commercial/writer-fusion.jpg) |
 | Kingjim Pomera DM30 | $150-250 | ![a small e-ink screen attached to a fold-up keyboard](/images/commercial/pomera-dm30.JPG) |
 | Kingjim Pomera DM100 | $150 | ![a clamshell style writing device with a new style LCD display](/images/commercial/pomera-dm100.jpg) |
 | Kingjim Pomera DM250 | $400 | ![a clamshell style writing device with a wider new style LCD display](/images/commercial/pomera-dm250_artvsentropy.jpg) |
