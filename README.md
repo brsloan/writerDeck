@@ -54,6 +54,19 @@ Does all that sound overwhelming to you, or painfully obvious? If the latter, yo
 
 Two free, open source projects dedicated specifically to writerDecks are [WareWoolf](https://github.com/brsloan/warewoolf) and [ZeroWriter](https://github.com/zerowriter/zerowriter1/tree/main), but there are many other options as well. Please see the [software page](writerdeck-software.md).
 
+## WriterDeck Tutorials
+
+* [Creating Single-App Distraction-Free Devices](creating-single-app-devices.md)
+* [ZeroWriter Build Guide](https://github.com/zerowriter/zerowriter1)
+
+## Related Tutorials
+
+* [Penkesu Pocket Computer](https://github.com/penk/penkesu)
+* [Lisperati](https://github.com/drcode/lisperati-1000-diy)
+* [Framedeck](https://github.com/brickbots/framedeck/)
+* [Mainboard Terminal](https://github.com/penk/MainboardTerminal)
+* [Chonky Palmtop](https://gitlab.com/norris.daniel/chonky-palmtop)
+
 ### Where can I get more info?
 
 There is an active community on Reddit at [r/writerDeck](https://www.reddit.com/r/writerDeck/).
