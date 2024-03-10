@@ -1,8 +1,10 @@
+# DIY WriterDecks
+
 I'm compiling a list of all the DIY writerDecks I can find in order to inspire others (me) looking to build one. And also because I just like looking at them and knowing they exist. Feel free to suggest any I've missed!
 
 # Setups For Using Phones/Tablets As WriterDecks
 
-For tablet decks, phone decks, and other almost-WriterDecks, please see this list [here](https://www.reddit.com/r/writerDeck/comments/13ljz89/a_list_of_tablet_decks_phone_decks_and_other/).
+For tablet decks, phone decks, and other almost-WriterDecks, please see this list [here](/list-of-tablet-writerdecks.md).
 
 # Custom Built WriterDecks
 
