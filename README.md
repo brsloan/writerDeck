@@ -73,6 +73,10 @@ There is an active community on Reddit at [r/writerDeck](https://www.reddit.com/
 
 There are also subreddits for specific projects such as [r/ZeroWriter](https://www.reddit.com/r/zerowriter/), which focuses on using the ZeroWriter software to build e-ink writerDecks.
 
+#### About This Guide
+
+This guide is written purely in markdown and hosted for free on Github Pages. It was started by Benjamin Sloan (creator of WareWoolf and r/writerDeck) but contributions are welcome through pull requests on [the WriterDeck Github repository](https://github.com/brsloan/writerDeck).
+
 #### Credit For Banner Images
 
 * [Compass Set Deck](https://www.reddit.com/r/writerDeck/comments/11y4wpx/update/) by /u/DreamingInDarkness
