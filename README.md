@@ -53,6 +53,12 @@ Does all that sound overwhelming to you, or painfully obvious? If the latter, yo
 
 Two free, open source projects dedicated specifically to writerDecks are [WareWoolf](https://github.com/brsloan/warewoolf) and [ZeroWriter](https://github.com/zerowriter/zerowriter1/tree/main), but there are many other options as well. Please see the [software page](writerdeck-software.md).
 
+### Where can I get more info?
+
+There is an active community on Reddit at [r/writerDeck](https://www.reddit.com/r/writerDeck/).
+
+There are also subreddits for specific projects such as [r/ZeroWriter](https://www.reddit.com/r/zerowriter/), which focuses on using the ZeroWriter software to build e-ink writerDecks.
+
 #### Credit For Banner Images
 
 * [Compass Set Deck](https://www.reddit.com/r/writerDeck/comments/11y4wpx/update/) by /u/DreamingInDarkness
