@@ -1,6 +1,6 @@
 A list of all the known professionally produced writerDecks that are generally available for purchase. Those with asterisks are from old companies now dead, but the devices can still be found on Ebay, etc.
 
-A quick list is followed be details below.
+A quick list is followed by details below.
 
 | Name | Price | Image |
 | ---- | ----- | ----- |
