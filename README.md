@@ -1,7 +1,8 @@
 # writerDeck.org
-![banner of different writerdecks](/images/banner.jpg)
 
 Helping writers escape the thrall of technology by selectively giving in to it.
+
+![banner of different writerdecks](/images/banner.jpg)
 
 ## What is a writerDeck?
 
