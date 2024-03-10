@@ -1,3 +1,7 @@
+# Creating Single-App Distraction-Free Devices
+
+To make a computer operate like an Alphasmart or a conventional word processor by booting directly into your writing program and not allowing access to anything else, you need to set up the operating system in a particular way.
+
 Since I just ended a struggle to figure this out based on many partial posts/tutorials, I figured I'd put it all together in one spot for others. This is just **one way** of doing it, and a way I just learned, so I don't pretend to be an expert or to say it's the best way. I just say it worked or me.
 
 I used this to convert a raspberry pi into a one-app device, but you could do the same thing with an old laptop. The idea is to have distraction-free access to a writing app without anything else accessible–no browser, no desktop, nothing. You should be able to do it with any app that runs on Linux, but I did it with my own writing app (which is still in development but mostly works), WareWoolf.
@@ -26,11 +30,15 @@ For me, that meant turning on wifi and enabling SSH so I could modify my pi from
 
 This should be pretty easy. For me:
 
-    sudo apt-get install xorg
+```bash
+sudo apt-get install xorg
+```
 
 ## 4. Install Matchbox
 
-    sudo apt-get install matchbox-window-manager
+```bash
+sudo apt-get install matchbox-window-manager
+```
 
 ## 5. Install your program
 
@@ -40,14 +48,18 @@ This may be as easy as “sudo apt-get install \[your app\]”, but since I was 
 
 Following [these ](https://wiki.archlinux.org/title/Xinit#Configuration)instructions, copy default config file for customization like so:
 
-    cp /etc/X11/xinit/xinitrc ~/.xinitrc
+```bash
+cp /etc/X11/xinit/xinitrc ~/.xinitrc
+```
 
 Now edit the created file however you like (I use nano: “nano \~/.xinitrc”) to add this:
 
-    matchbox-window-manager &
-    pid=$!
-    warewoolf
-    kill pid 
+```bash
+matchbox-window-manager &
+pid=$!
+warewoolf
+kill pid 
+```
 
 The pid/kill pid stuff makes it so when you exit your application, X will exit too, taking you back to the command line. Otherwise your app would close and you’d be left with an empty black window. (Obviously you would replace "warewoolf" with the command to start whatever app you're using.)
 
@@ -57,10 +69,12 @@ Save the file and exit. You can now test your app with the command “startx”.
 
 We can do this by editing the \~/.bash\_profile file:
 
-    if [[ -z "$DISPLAY" ]] && [[ $(tty) = /dev/tty1 ]]; then
-        exec startx
-        logout
-    fi
+```bash
+if [[ -z "$DISPLAY" ]] && [[ $(tty) = /dev/tty1 ]]; then
+    exec startx
+    logout
+fi
+```
 
 Save and reboot. Your app should open! Close the app to get back to the command line.
 
@@ -68,7 +82,9 @@ Save and reboot. Your app should open! Close the app to get back to the command 
 
 If you’d like the computer to shut down when you exit the app instead of going back to command line, open up \~/.xinitrc like you did in step 6 and add one more line below “kill pid”:
 
-    shutdown -h 0
+```bash
+shutdown -h 0
+```
 
 Save and reboot. Your app will load! Exit the app. The computer shuts down! You’ve done it! (Maybe. Maybe some weird error popped up somewhere along the way and you can’t for the love of god figure it out. Welcome to tinkering with Linux.)
 
