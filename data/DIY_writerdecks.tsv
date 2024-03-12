@@ -1,0 +1,22 @@
+Date	Name	Creator	Link	Hardware	Software	Case	Image
+2018-01-30	Ultimate Writer	NinjaTrappeur	https://github.com/picnoir/ultimate-writer	Raspberry PI 3B, Waveshare E-ink	Raspian, Ultimate Writer open software	wood	UltimateWriter.jpg
+2019-03-22	SPUDwrite	Lucian Copeland	https://spectrum.ieee.org/write-without-distraction-with-this-diy-eink-typewriter	STMicroelectronics Cortex-M4 processor, E-ink, LCD, thermal printer	Software: Mbed firmware, custom Arduino code	wood	SPUDwrite.jpg
+2020-12-14	FeatherQuill	CameronCoward	https://www.instructables.com/FeatherQuill-34-Hours-of-Distraction-Free-Writing/	Raspberry Pi Zero W, ELECTROW 5 Inch touch screen	DietPi, WordGrinder	3D printed	FeatherQuill.jpg
+2021-06-05	Papertyper	John Larsby	http://www.larsby.com/johan/2021/06/papertyper-digital-typewriter-4/	Raspberry Pi Zero, Waveshare LCD	Linux, Micro	wood	PaperTyper.jpg
+2021-07-07	LCDTyper	John Larsby	http://www.larsby.com/johan/2021/07/lcdtyper/	Raspberry Pi Zero, GeekPiLCD	Linux, Kilo	wood	LCDTyper.jpg
+2021-10-24	square-screened lego deck	u/DreaminginDarkness	https://www.reddit.com/r/cyberDeck/comments/qf7zrh/i_use_this_for_writing_and_everything_autosyncs/	Raspberry Pi 4, Hyperpixedl square touch screen	Linux, FocusWriter	cardboard and lego blocks	SquareScreenLegoDeck.jpg
+2022-06-14	WareWoolf Alpha	Benjamin Sloan	https://benjaminsloan.com/2022/06/14/warewoolf-alpha-a-single-purpose-writing-device-i-built/	Raspberry Pi 4	Raspberry Pi OS Lite, WareWoolf original open software	oak, copper, plastic, cork	WareWoolfAlpha.jpg
+2023-03-21	Compass Set Deck	u/DreaminginDarkness	https://www.reddit.com/r/writerDeck/comments/11y4wpx/update/	Raspberry Pi, Waveshare LCD, Vortex core 40% mech keyboard	FocusWriter, rclone, rclonesync	Compass lettering set case	CompassSetDeck.jpg
+2023-03-29	Mythic I	u/Yungblude	https://www.reddit.com/r/writerDeck/comments/125wqf4/i_wanted_a_beautiful_computer_and_couldnt_find/	Intel NUC	NixOS, bash, wordgrinder, kakoune	maple, walnut, leather	MythicI.jpg
+2023-04-18	mac air top deck	u/DreaminginDarkness	https://www.reddit.com/r/writerDeck/comments/12rf3i5/the_new_deck_made_with_a_mac_air_top_case_as_the/	Raspberry Pi, Waveshare touchscreen	FocusWriter, rclone, rclonesync	Mac air top case	MacAirTopDeck.jpg
+2023-05-14	ClipboardPi	u/CrazyinFrance	https://www.reddit.com/r/writerDeck/comments/13hw5vw/the_clipboardpi/	Raspberry Pi 400	Raspberry Pi OS	a clipboard	ClipBoardDeck.jpg
+2023-05-18	MUSE	u/ThisIsTheNewSleeve	https://www.reddit.com/r/writerDeck/comments/13l0zmx/finally_finished_my_writerdeck_i_call_it_the_muse/	Raspberry Pi 4, 68 Keys open source keyboard	Raspberry Pi OS, Google Docs	3D printed	Muse.jpg
+2023-07-26	Mythic II	u/Yungblude	https://www.reddit.com/r/writerDeck/comments/15akhwr/a_friend_wanted_a_beautiful_serene_computer_he/	Intel NUC?		wood, leather	MythicII.jpg
+2023-12-09	Writercyber-cyberwriter	u/wabaki-	https://www.reddit.com/r/writerDeck/comments/18e6wop/writercybercyberwriter/	Raspberyy Pi 3A+, Bigtreetech TFT50		aluminum HDD enclosure	WritercyberCyberwriter.jpg
+2023-12-19	ZeroWriter	u/tincangames	https://www.reddit.com/r/writerDeck/comments/18m9ffi/my_eink_typewriter_build_guide/	Raspberry Pi Zero 2W, Waveshare E-ink	ZeroWriter original open software		ZeroWriter.jpg
+2023-12-24	Mewriter	u/Cello42	https://www.reddit.com/r/writerDeck/comments/18pria7/the_mewriter/	Rapberry Pi Zero 2W, VSDisplay IPS touchscreen	FocusWriter, WordGrinder	wood	Mewriter.jpg
+2024-01-19	Creativity Machine	u/Pangolin_Beatdown	https://www.reddit.com/r/writerDeck/comments/19am36v/my_diy_creativity_machine/	Rapberry Pi 4b	Wordgrinder	jewelry trays, vinyl	CreativityMachine.jpg
+2024-02-07	TypeWryter	u/CertifiedWerewolf	https://www.reddit.com/r/writerDeck/comments/1alauai/my_slate_writerdeck_i_call_it_my_typewryter/	Raspberry Pi Zero 2W, Waveshare E-ink	TypeWryter	plastic	TypeWryter.jpg
+2024-02-19	backgammon deck	u/ChristyMalry	https://www.reddit.com/r/writerDeck/comments/1aur99n/first_attempt_work_in_progress/	Raspberry Pi Zero 2W, Waveshare E-ink	ZeroWriter	backgammon board	Backgammon.jpg
+2024-02-25	Tapico Typer	u/v1c3ntecruz	https://www.reddit.com/r/writerDeck/comments/1b03zy0/tapico_typer_a_calculator_but_for_words/	Raspberry Pi Zero 2 W, Waveshare e-ink	ZeroWriter	3D printed	TapicoTyper.jpg
+2024-03-04	Micro Journal	u/Background_Ad_1810	https://github.com/unkyulee/micro-journal	Raspberryi Zero 2W, 30-key keyboard		3D printed	MicroJournal.jpg

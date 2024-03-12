@@ -8,6 +8,31 @@ For tablet decks, phone decks, and other almost-WriterDecks, please see this lis
 
 # Custom Built WriterDecks
 
+| Date | Name | Image |
+| ---- | ---- | ---- |
+| 2018-01-30 | Ultimate Writer by NinjaTrappeur | ![photo of a writing device](/images/diy/UltimateWriter.jpg) |
+| 2019-03-22 | SPUDwrite by Lucian Copeland | ![photo of a writing device](/images/diy/SPUDwrite.jpg) |
+| 2020-12-14 | FeatherQuill by CameronCoward | ![photo of a writing device](/images/diy/FeatherQuill.jpg) |
+| 2021-06-05 | Papertyper by John Larsby | ![photo of a writing device](/images/diy/PaperTyper.jpg) |
+| 2021-07-07 | LCDTyper by John Larsby | ![photo of a writing device](/images/diy/LCDTyper.jpg) |
+| 2021-10-24 | square-screened lego deck by u/DreaminginDarkness | ![photo of a writing device](/images/diy/SquareScreenLegoDeck.jpg) |
+| 2022-06-14 | WareWoolf Alpha by Benjamin Sloan | ![photo of a writing device](/images/diy/WareWoolfAlpha.jpg) |
+| 2023-03-21 | Compass Set Deck by u/DreaminginDarkness | ![photo of a writing device](/images/diy/CompassSetDeck.jpg) |
+| 2023-03-29 | Mythic I by u/Yungblude | ![photo of a writing device](/images/diy/MythicI.jpg) |
+| 2023-04-18 | mac air top deck by u/DreaminginDarkness | ![photo of a writing device](/images/diy/MacAirTopDeck.jpg) |
+| 2023-05-14 | ClipboardPi by u/CrazyinFrance | ![photo of a writing device](/images/diy/ClipBoardDeck.jpg) |
+| 2023-05-18 | MUSE by u/ThisIsTheNewSleeve | ![photo of a writing device](/images/diy/Muse.jpg) |
+| 2023-07-26 | Mythic II by u/Yungblude | ![photo of a writing device](/images/diy/MythicII.jpg) |
+| 2023-12-09 | Writercyber-cyberwriter by u/wabaki- | ![photo of a writing device](/images/diy/WritercyberCyberwriter.jpg) |
+| 2023-12-19 | ZeroWriter by u/tincangames | ![photo of a writing device](/images/diy/ZeroWriter.jpg) |
+| 2023-12-24 | Mewriter by u/Cello42 | ![photo of a writing device](/images/diy/Mewriter.jpg) |
+| 2024-01-19 | Creativity Machine by u/Pangolin_Beatdown | ![photo of a writing device](/images/diy/CreativityMachine.jpg) |
+| 2024-02-07 | TypeWryter by u/CertifiedWerewolf | ![photo of a writing device](/images/diy/TypeWryter.jpg) |
+| 2024-02-19 | backgammon deck by u/ChristyMalry | ![photo of a writing device](/images/diy/Backgammon.jpg) |
+| 2024-02-25 | Tapico Typer by u/v1c3ntecruz | ![photo of a writing device](/images/diy/TapicoTyper.jpg) |
+| 2024-03-04 | Micro Journal by u/Background_Ad_1810 | ![photo of a writing device](/images/diy/MicroJournal.jpg) |
+
+
 * [PaperTyper](http://www.larsby.com/johan/2021/06/papertyper-digital-typewriter-4/) by /u/larsby
    * Hardware: Raspberry Pi Zero, Waveshare LCD
    * Software: Linux, [Micro](https://micro-editor.github.io/)
