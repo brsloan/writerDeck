@@ -4,6 +4,8 @@ I'm compiling a list of all the DIY writerDecks I can find in order to inspire o
 
 # Custom Built WriterDecks
 
+If the table below looks awful, try the [mobile version](list-of-diy-writerdecks-mobile.md).
+
 | Date | Name | Details | Image |
 | ---- | ---- | ---- | ---- |
 | 2018-01-30 | [Ultimate Writer](https://github.com/picnoir/ultimate-writer) by NinjaTrappeur | Hardware: Raspberry PI 3B, Waveshare E-ink; Software: Raspian, Ultimate Writer open software; Case: wood | [<img src="images/diy/UltimateWriter.jpg">](/images/diy/UltimateWriter.jpg) |
