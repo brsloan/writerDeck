@@ -5,6 +5,7 @@ fs.readFile('DIY_writerdecks.tsv', 'utf8', function(err, data){
     var writerDecks = parseFile(data);
     var tableStr = toMarkdownTable(writerDecks);
     console.log(tableStr);
+    writeResult(tableStr);
 });
 
 function parseFile(data){
@@ -28,12 +29,22 @@ function parseFile(data){
 }
 
 function toMarkdownTable(decks){
-    var tableStr = '| Date | Name | Image |\n';
-    tableStr += '| ---- | ---- | ---- |\n';
+    var tableStr = '| Date | Name | Details | Image |\n';
+    tableStr += '| ---- | ---- | ---- | ---- |\n';
 
     decks.forEach(deck => {
-        tableStr += '| ' + deck.Date + ' | [' + deck.Name + '](' + deck.Link + ') by ' + deck.Creator + ' | ![photo of a writing device](/images/diy/' + deck.Image + ') |\n';
+        tableStr += '| ' + deck.Date + ' | [' + deck.Name + '](' + 
+        deck.Link + ') by ' + deck.Creator + ' | ' + 'Hardware: ' + 
+        deck.Hardware + '; Software: ' + (deck.Software ? deck.Software : '???') + '; Case: ' + 
+        deck.Case + ' | ![photo of a writing device](/images/diy/' + 
+        deck.Image + ') |\n';
     });
 
     return tableStr;
+}
+
+function writeResult(tableStr){
+    fs.writeFile('DIY_writerdecks.md', tableStr, function(){
+        console.log('file saved to DIY_writerdecks.md');
+    });
 }
