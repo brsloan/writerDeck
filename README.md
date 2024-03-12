@@ -18,19 +18,23 @@ A second reason is pleasure. If a significant focus of your life is on writing, 
 
 A third reason is because they are fun to design and build.
 
-## What writerDecks are available for purchase?
+## Commercial WriterDecks
+
+![banner of commercial writerdecks](/images/banner-commercial.jpg)
 
 Please see the [list of commercial writerDecks](list-of-commercial-writerdecks.md) for mass-produced offerings.
 
 There are also people willing to build you a custom writerDeck for a fee, such as Keegan McNamara of [Mythic Computer Co.](https://www.mythic.computer/)
 
-## What are some examples of writerDecks people have made themselves?
+## D.I.Y. WriterDecks
 
-Check out the [list of DIY writerDecks](list-of-diy-writerdecks.md).
+![banner of DIY writerdecks](/images/banner-diy2.jpg)
+
+Check out the [list of D.I.Y. writerDecks](list-of-diy-writerdecks.md) to see all the ways people have built their own.
 
 ## Why wouldn't I just use my phone/tablet and a bluetooth keyboard?
 
-Many people do just that! The only downsides might be if you have other distracting apps (which you can always remove) and that you might have to juggle multiple devices (unless you attach them somehow). Here is a list of the many approaches people have taken with [phone/tablet writerDecks](list-of-tablet-writerdecks.md).
+Many people do just that! The only downsides might be if you have other distracting apps (which you can always remove) or if you have to juggle multiple devices (unless you attach them somehow). Here is a list of the many approaches people have taken with [phone/tablet writerDecks](list-of-tablet-writerdecks.md).
 
 ## How do I make a writerDeck? Is it hard?
 
