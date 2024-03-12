@@ -2,10 +2,6 @@
 
 I'm compiling a list of all the DIY writerDecks I can find in order to inspire others (me) looking to build one. And also because I just like looking at them and knowing they exist. Feel free to suggest any I've missed!
 
-# Setups For Using Phones/Tablets As WriterDecks
-
-For tablet decks, phone decks, and other almost-WriterDecks, please see this list [here](/list-of-tablet-writerdecks.md).
-
 # Custom Built WriterDecks
 
 | Date | Name | Details | Image |
@@ -31,3 +27,7 @@ For tablet decks, phone decks, and other almost-WriterDecks, please see this lis
 | 2024-02-19 | [backgammon deck](https://www.reddit.com/r/writerDeck/comments/1aur99n/first_attempt_work_in_progress/) by u/ChristyMalry | Hardware: Raspberry Pi Zero 2W, Waveshare E-ink; Software: ZeroWriter; Case: backgammon board | ![photo of a writing device](/images/diy/Backgammon.jpg) |
 | 2024-02-25 | [Tapico Typer](https://www.reddit.com/r/writerDeck/comments/1b03zy0/tapico_typer_a_calculator_but_for_words/) by u/v1c3ntecruz | Hardware: Raspberry Pi Zero 2 W, Waveshare e-ink; Software: ZeroWriter; Case: 3D printed | ![photo of a writing device](/images/diy/TapicoTyper.jpg) |
 | 2024-03-04 | [Micro Journal](https://github.com/unkyulee/micro-journal) by u/Background_Ad_1810 | Hardware: Raspberryi Zero 2W, 30-key keyboard; Software: ???; Case: 3D printed | ![photo of a writing device](/images/diy/MicroJournal.jpg) |
+
+## Setups For Using Phones/Tablets As WriterDecks
+
+For tablet decks, phone decks, and other almost-WriterDecks, please see this list [here](/list-of-tablet-writerdecks.md).
