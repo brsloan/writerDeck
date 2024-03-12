@@ -3,7 +3,7 @@ const fs = require('fs');
 
 fs.readFile('DIY_writerdecks.tsv', 'utf8', function(err, data){
     var writerDecks = parseFile(data);
-    var tableStr = toMarkdownTableLink(writerDecks);
+    var tableStr = toMarkdownTableDetailed(writerDecks);
     console.log(tableStr);
     writeResult(tableStr);
 });
@@ -28,20 +28,7 @@ function parseFile(data){
     return writerDecks;
 }
 
-function toMarkdownTable(decks){
-    var tableStr = '| Date | Name | Image |\n';
-    tableStr += '| ---- | ---- | ---- |\n';
-
-    decks.forEach(deck => {
-        tableStr += '| ' + deck.Date + ' | [' + deck.Name + '](' + 
-        deck.Link + ') by ' + deck.Creator + ' | ![photo of a writing device](/images/diy/' + 
-        deck.Image + ') |\n';
-    });
-
-    return tableStr;
-}
-
-function toMarkdownTableLink(decks){
+function toMarkdownTableSimple(decks){
     var tableStr = '| Date | Name | Image |\n';
     tableStr += '| ---- | ---- | ---- |\n';
 
@@ -62,7 +49,7 @@ function toMarkdownTableDetailed(decks){
         tableStr += '| ' + deck.Date + ' | [' + deck.Name + '](' + 
         deck.Link + ') by ' + deck.Creator + ' | ' + 'Hardware: ' + 
         deck.Hardware + '; Software: ' + (deck.Software ? deck.Software : '???') + '; Case: ' + 
-        deck.Case + ' | ![photo of a writing device](/images/diy/' + 
+        deck.Case + ' | [<img src="images/diy/' + deck.Image + '">](/images/diy/' + 
         deck.Image + ') |\n';
     });
 
