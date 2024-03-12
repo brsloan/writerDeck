@@ -1,4 +1,4 @@
-//Node script for convering .tsv file to markdown table
+//Node script for converting .tsv file to markdown table
 const fs = require('fs');
 
 fs.readFile('DIY_writerdecks.tsv', 'utf8', function(err, data){
