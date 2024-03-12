@@ -32,7 +32,7 @@ function toMarkdownTable(decks){
     tableStr += '| ---- | ---- | ---- |\n';
 
     decks.forEach(deck => {
-        tableStr += '| ' + deck.Date + ' | ' + deck.Name + ' by ' + deck.Creator + ' | ![photo of a writing device](/images/diy/' + deck.Image + ') |\n';
+        tableStr += '| ' + deck.Date + ' | [' + deck.Name + '](' + deck.Link + ') by ' + deck.Creator + ' | ![photo of a writing device](/images/diy/' + deck.Image + ') |\n';
     });
 
     return tableStr;
