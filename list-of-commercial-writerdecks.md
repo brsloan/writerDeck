@@ -6,17 +6,17 @@ A quick list is followed by details below.
 
 | Name | Price | Image |
 | ---- | ----- | ----- |
-| Freewrite Digital Typewriter| $649 USD | ![a mechanical keyboard with an attached e-ink screen and prominent physical switches](/images/commercial/freewrite.jpg)|
-| Freewrite Traveler | $499 USD | ![a small keyboard-shaped, laptop style clamshell e-ink writing device](/images/commercial/freewrite-traveler.jpg) |
-| Freewrite Alpha | $349 USD | ![a flat keyboard with a thin, dim old style LCD display](/images/commercial/freewrite_alpha.jpg) |
-| Alphasmart Neo / Neo2* | $50-80 USD | ![a curvey dark gray plastic bodied keyboard device with a taller LCD display](/images/commercial/alphaSmart-neo-2.jpg) |
-| Alphasmart Dana* | $50-80 | ![ curvey dark gray plastic bodied keyboard device with an even taller LCD display](/images/commercial/alphasmart-dana_gene-wilburn.jpg) |
-| Alphasmart 3000* | $50-80 | ![ curvey dark gray plastic bodied keyboard device with a thin LCD display](/images/commercial/alphasmart-3000_quinby.jpg) |
-| The Writer Fusion* | $25-50 | ![a rectangular 80s looking keyboard contraptio with a big old style lcd display](/images//commercial/writer-fusion.jpg) |
-| Kingjim Pomera DM30 | $150-250 | ![a small e-ink screen attached to a fold-up keyboard](/images/commercial/pomera-dm30.JPG) |
-| Kingjim Pomera DM100 | $150 | ![a clamshell style writing device with a new style LCD display](/images/commercial/pomera-dm100.jpg) |
-| Kingjim Pomera DM250 | $400 | ![a clamshell style writing device with a wider new style LCD display](/images/commercial/pomera-dm250_artvsentropy.jpg) |
-| ReMarkable Paper Tablet | $498 | ![an e-ink tablet with attachable keyboard](/images/commercial/remarkable-type-folio.jpg) |
+| [Freewrite Digital Typewriter](#freewrite-digital-typewriter) | $649 USD | ![a mechanical keyboard with an attached e-ink screen and prominent physical switches](/images/commercial/freewrite.jpg)|
+| [Freewrite Traveler](#freewrite-traveler) | $499 USD | ![a small keyboard-shaped, laptop style clamshell e-ink writing device](/images/commercial/freewrite-traveler.jpg) |
+| [Freewrite Alpha](#freewrite-alpha) | $349 USD | ![a flat keyboard with a thin, dim old style LCD display](/images/commercial/freewrite_alpha.jpg) |
+| [Alphasmart Neo / Neo2*](#alphasmart-neo) | $50-80 USD | ![a curvey dark gray plastic bodied keyboard device with a taller LCD display](/images/commercial/alphaSmart-neo-2.jpg) |
+| [Alphasmart Dana*](#alphasmart-dana) | $50-80 | ![ curvey dark gray plastic bodied keyboard device with an even taller LCD display](/images/commercial/alphasmart-dana_gene-wilburn.jpg) |
+| [Alphasmart 3000*](#alphasmart-3000) | $50-80 | ![ curvey dark gray plastic bodied keyboard device with a thin LCD display](/images/commercial/alphasmart-3000_quinby.jpg) |
+| [The Writer Fusion*](#the-writer-fusion) | $25-50 | ![a rectangular 80s looking keyboard contraptio with a big old style lcd display](/images//commercial/writer-fusion.jpg) |
+| [Kingjim Pomera DM30](#kingjim-pomera-dm30) | $150-250 | ![a small e-ink screen attached to a fold-up keyboard](/images/commercial/pomera-dm30.JPG) |
+| [Kingjim Pomera DM100](#kingjim-pomera-dm100) | $150 | ![a clamshell style writing device with a new style LCD display](/images/commercial/pomera-dm100.jpg) |
+| [Kingjim Pomera DM250](#kingjim-pomera-dm250) | $400 | ![a clamshell style writing device with a wider new style LCD display](/images/commercial/pomera-dm250_artvsentropy.jpg) |
+| [ReMarkable Paper Tablet](#remarkable-paper-tablet) | $498 | ![an e-ink tablet with attachable keyboard](/images/commercial/remarkable-type-folio.jpg) |
 
 ## [Freewrite Digital Typewriter](https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen)
 
@@ -26,7 +26,7 @@ $649 USD - The big dog, and priced as such. These things are solid chunks of alu
 
 $499 USD - The smaller, mobile version of the Freewrite. Main tradeoff is losing the mechanical keyboard.
 
-## [Astrohaus Alpha](https://getfreewrite.com/products/alpha)
+## [Freewrite Alpha](https://getfreewrite.com/products/alpha)
 
 $349 USD ($299 preorder) - The newest Freewrite device, designed to be a modern update to the Alphasmart Neo (below). It has worse ergonomics than the Alphasmart in my opinion, has no dedicated arrow keys (instead you use WASD), and costs ten times as much, but it has the advantage of wirelessly uploading documents.
 
