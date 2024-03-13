@@ -12,9 +12,7 @@ fs.readFile('DIY_writerdecks.tsv', 'utf8', function(err, data){
 
 function parseFile(data){
     var writerDecks = [];
-    const windowsSplit = '\r\n';
-    const unixSplit = '\n';
-    var lines = data.split(windowsSplit);
+    var lines = data.split(/\r\n|\n|\r/);
 
     var titleLine = lines.shift().split('\t');    
 
