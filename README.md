@@ -24,7 +24,7 @@ A third reason is because they are fun to design and build.
 
 Please see the [list of commercial writerDecks](list-of-commercial-writerdecks.md) for mass-produced offerings.
 
-There are also people willing to build you a custom writerDeck for a fee, such as Keegan McNamara of [Mythic Computer Co.](https://www.mythic.computer/)
+There are also people willing to build you a custom writerDeck for a fee, such as Keegan McNamara of [Mythic Computer Co.](https://www.mythic.computer/) or Un Kyu Lee of [Micro Journal](https://www.tindie.com/stores/unkyulee/)
 
 ## D.I.Y. WriterDecks
 
