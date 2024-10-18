@@ -14,6 +14,10 @@
    - Free, open source software for e-ink, terminal-based writerDecks, based on Zerowriter.
    - Advantages: Has a built-in file browser for managing files remotely from another computer on the same network. Terminal-based and written in python so not resource hungry.
    - Disadvantages: not sure as I haven't used it, but it does not allow editing (only write and backspace).
+- [Micro Journal](https://github.com/unkyulee/micro-journal)
+   - Free, open source software written to run on an ESP32 microprocessor.
+   - Advantages: ESP32 makes for an instant-on, low-power device similar to the Alphasmart Neo, as opposed to anything running Linux on a Raspberry Pi, which needs to boot up a whole operating system before opening your application.
+   - Disadvantages: have not yested yet, but likely has fewer features than an OS-based application (which is, of course, not necessarily a disadvantage).
 
 ## Good for WriterDecks
 
