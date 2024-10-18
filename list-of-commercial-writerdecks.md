@@ -6,6 +6,9 @@ A quick list is followed by details below.
 
 | Name | Price | Image |
 | ---- | ----- | ----- |
+| [Micro Journal Rev 2](#micro-journal-rev-2) | $269 | ![](/images/commercial/MicroJournalRev2.jpg)|
+| [Micro Journal Rev 5](#micro-journal-rev-5) | $139 | ![](/images/commercial/MicroJournalRev5.jpg)|
+| [Micro Journal Rev 6](#micro-journal-rev-6) | $179 | ![](/images/commercial/MicroJournalRev6.jpg)|
 | [Freewrite Digital Typewriter](#freewrite-digital-typewriter) | $649 USD | ![a mechanical keyboard with an attached e-ink screen and prominent physical switches](/images/commercial/freewrite.jpg)|
 | [Freewrite Traveler](#freewrite-traveler) | $499 USD | ![a small keyboard-shaped, laptop style clamshell e-ink writing device](/images/commercial/freewrite-traveler.jpg) |
 | [Freewrite Alpha](#freewrite-alpha) | $349 USD | ![a flat keyboard with a thin, dim old style LCD display](/images/commercial/freewrite_alpha.jpg) |
@@ -18,9 +21,21 @@ A quick list is followed by details below.
 | [Kingjim Pomera DM250](#kingjim-pomera-dm250) | $400 | ![a clamshell style writing device with a wider new style LCD display](/images/commercial/pomera-dm250_artvsentropy.jpg) |
 | [ReMarkable Paper Tablet](#remarkable-paper-tablet) | $498 | ![an e-ink tablet with attachable keyboard](/images/commercial/remarkable-type-folio.jpg) |
 
+## [Micro Journal Rev 2](https://www.tindie.com/products/unkyulee/micro-journal-rev2-mother-of-twins/)
+
+$269 USD - The Micro Journals are all made by one designer/creator in Italy, Un Kyu Lee, who is by all accounts a fantastic person to deal with, but since it is only him, he releases in small batches that quickly sell out. The link above is to his Tindie store to purchase the deck, but you can find much more info on his [Github Page](https://github.com/unkyulee/micro-journal), including build guides for all his open source projects.
+
+## [Micro Journal Rev 5](https://www.tindie.com/products/unkyulee/micro-journal-rev5-a-personal-journey/)
+
+$139 USD - This is a "bring your own keyboard" design. The Micro Journals are all made by one designer/creator in Italy, Un Kyu Lee, who is by all accounts a fantastic person to deal with, but since it is only him, he releases in small batches that quickly sell out. The link above is to his Tindie store to purchase the deck, but you can find much more info on his [Github Page](https://github.com/unkyulee/micro-journal), including build guides for all his open source projects.
+
+## [Micro Journal Rev 6](https://www.tindie.com/products/unkyulee/micro-journal-rev6-vivian-in-new-york/)
+
+$179 USD - This version has a protective hood that rolls forward to cover the screen. The Micro Journals are all made by one designer/creator in Italy, Un Kyu Lee, who is by all accounts a fantastic person to deal with, but since it is only him, he releases in small batches that quickly sell out. The link above is to his Tindie store to purchase the deck, but you can find much more info on his [Github Page](https://github.com/unkyulee/micro-journal), including build guides for all his open source projects.
+
 ## [Freewrite Digital Typewriter](https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen)
 
-$649 USD - The big dog, and priced as such. These things are solid chunks of aluminum with an e-ink screen, mechanical keyboard, and automatic syncing over wifi. People tend to love or hate it, mainly due to the latency inherent to an e-ink screen and the lack of arrow keys. The newest (Gen 3) model has a cursor and hot-keys for WASD arrow keys. I have one and love it.
+$649 USD - The big dog, and priced as such. These things are solid chunks of aluminum with an e-ink screen, mechanical keyboard, and automatic syncing over wifi. People tend to love or hate it, mainly due to the latency inherent to an e-ink screen and the lack of arrow keys. The newest (Gen 3) model has a cursor and hot-keys for WASD arrow keys.
 
 ## [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
 
