@@ -3,15 +3,15 @@
 ## Written Specifically for WriterDecks
 
 - [WareWoolf](https://github.com/brsloan/warewoolf/wiki)
-   - Free, open source software written by /u/PigRepresentative of this sub specifically for use in writerDecks for writing novels.
+   - Free, open source software specifically for use in writerDecks for writing (and editing) novels.
    - Advantages: Designed to work well without mouse, self-email drafts function, built-in file manager, minimalist design, I wrote it...
    - Disadvantages: A graphical program written in Electron, so more resource hungry than terminal-based alternatives
 - [Zerowriter](https://github.com/zerowriter/zerowriter1/tree/main)
-   - Free, open source software written by /u/tincangames with contributions from u/CertifiedWerewolf for use with e-ink, terminal-based devices.
+   - Free, open source software for use with e-ink, terminal-based devices.
    - Advantages: Terminal-based and written in python so not resource hungry. Now has built-in file browser, wi-fi control, etc.
    - Disadvantages: Haven't used it, but appears to be very simple/in the early stages.
 - [TypeWryter](https://github.com/RyWhal/TypeWryter)
-   - Free, open source software written by u/CertifiedWerewolf for e-ink, terminal-based writerDecks, based on Zerowriter.
+   - Free, open source software for e-ink, terminal-based writerDecks, based on Zerowriter.
    - Advantages: Has a built-in file browser for managing files remotely from another computer on the same network. Terminal-based and written in python so not resource hungry.
    - Disadvantages: not sure as I haven't used it, but it does not allow editing (only write and backspace).
 
