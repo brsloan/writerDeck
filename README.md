@@ -32,6 +32,10 @@ There are also people willing to build you a custom writerDeck for a fee, such a
 
 Check out the [list of D.I.Y. writerDecks](list-of-diy-writerdecks.md) to see all the ways people have built their own.
 
+## Convert A Laptop Into A WriterDeck
+
+[Tinker WriterDeck](https://tinker.sh/) is a simple turn-key solution to turn a laptop into a dedicated writing device. You simply install the operating system as instructed and your laptop will now boot directly into a simple writing application with no internet or other apps to distract you. This is probably the cheapest and easiest solution for most writers, since you likely already have an old laptop and can always get one cheaply. And if you want to get more complicated, you can customize it to enable things like cloud backup.
+
 ## Why wouldn't I just use my phone/tablet and a bluetooth keyboard?
 
 Many people do just that! The only downsides might be if you have other distracting apps (which you can always remove) or if you have to juggle multiple devices (unless you attach them somehow). Here is a list of the many approaches people have taken with [phone/tablet writerDecks](list-of-tablet-writerdecks.md).
