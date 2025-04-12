@@ -22,6 +22,8 @@
    - Not a writing application, but a Linux distro packaged specifically to turn laptops into writerDecks. The writing app it uses is [Tilde](https://os.ghalkes.nl/tilde/).
    - Advantages: Easy for non-computer people to turn a laptop into an inexpensive writerDeck.
    - Disadvantages: Does not come with easy ways to self email drafts, use different writing programs, etc. (But that all can be customized--see their website.)
+- [CyberWriter](https://github.com/DarbinOrvar/CyberWriter)
+   - A simple word processor written in Python for the [CyberWriter writerdeck](https://www.youtube.com/watch?v=sIItE5ro-ko).
 
 ## Good for WriterDecks
 
