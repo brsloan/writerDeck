@@ -24,6 +24,9 @@
    - Disadvantages: Does not come with easy ways to self email drafts, use different writing programs, etc. (But that all can be customized--see their website.)
 - [CyberWriter](https://github.com/DarbinOrvar/CyberWriter)
    - A simple word processor written in Python for the [CyberWriter writerdeck](https://www.youtube.com/watch?v=sIItE5ro-ko).
+- [USB-DOS](https://github.com/lproven/usb-dos)
+   - Prepackaged DOS images with writing software so you can boot into DOS from a USB drive and have a distraction-free writing setup.
+   - Only works with older computers. See more info [here](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/).
 
 ## Good for WriterDecks
 
