@@ -60,6 +60,9 @@
 - [WordStar 4](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Wordstar+4&gid=2601#)
    - Another old-school terminal program from the 80s. This is another DOS program, so needs to be run through an emulator. This one is famous because it's what George R. R. Martin still uses to write his gigantic fantasy novels.
    - Disadvantages: Have to run through emulator, not sure how exporting to a usable modern format works. (Probably have to go through plain text?)
+- [WordStar 7](https://www.sfwriter.com/ws7.htm)
+   - The final release of WordStar from 1992, made available as an archive with extensive documentation, pre-configured DOS emulator, and conversion utility by writer Robert J. Sawyer, who still uses it.
+   - Disadvantages: Have to run through emulator, command-line tools needed to convert to modern formats.
 - [Carousel by Party Time! Hexcellent!](https://partytimehexcellent.itch.io/carousel)
    - This is a fun new app written for DOS (can be run with DOS emulators) that is oriented more toward diary writing, but with its keyboard-only design and retro look would make a great program for a journaling writerDeck.
    - Disadvantages: Does not lend itself to serious fiction writing, etc., as it does not allow you to edit documents beyond the last few paragraphs written.
