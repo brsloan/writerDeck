@@ -34,7 +34,7 @@ Check out the [list of D.I.Y. writerDecks](list-of-diy-writerdecks.md) to see al
 
 ## Convert A Laptop Into A WriterDeck
 
-[Tinker WriterDeck](https://tinker.sh/) is a simple turn-key solution to turn a laptop into a dedicated writing device. You simply install the operating system as instructed and your laptop will now boot directly into a simple writing application with no internet or other apps to distract you. This is probably the cheapest and easiest solution for most writers, since you likely already have an old laptop and can always get one cheaply. And if you want to get more complicated, you can customize it to enable things like cloud backup.
+[writerdeckOS](https://writerdeckos.com/) is a simple turn-key solution to turn a laptop into a dedicated writing device. You simply install the operating system as instructed and your laptop will now boot directly into a simple writing application with no internet or other apps to distract you. This is probably the cheapest and easiest solution for most writers, since you likely already have an old laptop and can always get one cheaply. And if you want to get more complicated, you can customize it to enable things like cloud backup. (writerdeckOS is not affiliated with writerdeck.org, but is recommended.)
 
 [USB-DOS](https://github.com/lproven/usb-dos) allows you to boot from a USB drive directly into a virtual DOS computer with basic writing software and nothing else, but it only works for older computers. You can read more about it [here](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/).
 
