@@ -18,10 +18,10 @@
    - Free, open source software written to run on an ESP32 microprocessor.
    - Advantages: ESP32 makes for an instant-on, low-power device similar to the Alphasmart Neo, as opposed to anything running Linux on a Raspberry Pi, which needs to boot up a whole operating system before opening your application.
    - Disadvantages: have not yested yet, but likely has fewer features than an OS-based application (which is, of course, not necessarily a disadvantage).
-- [Tinker WriterDeck](https://tinker.sh/)
+- [writerDeckOS](https://writerdeckos.com/)
    - Not a writing application, but a Linux distro packaged specifically to turn laptops into writerDecks. The writing app it uses is [Tilde](https://os.ghalkes.nl/tilde/).
    - Advantages: Easy for non-computer people to turn a laptop into an inexpensive writerDeck.
-   - Disadvantages: Does not come with easy ways to self email drafts, use different writing programs, etc. (But that all can be customized--see their website.)
+   - Disadvantages: Does not come with easy ways to self email drafts, use different writing programs, etc. (But that all can be customized, and it may have been updated since this was written--see their website.)
 - [CyberWriter](https://github.com/DarbinOrvar/CyberWriter)
    - A simple word processor written in Python for the [CyberWriter writerdeck](https://www.youtube.com/watch?v=sIItE5ro-ko).
 - [USB-DOS](https://github.com/lproven/usb-dos)
