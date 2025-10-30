@@ -79,6 +79,10 @@ Two free, open source projects dedicated specifically to writerDecks are [WareWo
 * [Mainboard Terminal](https://github.com/penk/MainboardTerminal)
 * [Chonky Palmtop](https://gitlab.com/norris.daniel/chonky-palmtop)
 
+## I Can't Afford Any of This and Now I'm Sad
+
+Good news: you don't need any of this to write! My current writerDeck is one of the oldest and best--a paper notebook and fountain pen. If you find handwriting physically tiring, consider [brushing up on your cursive](https://en.wikipedia.org/wiki/D%27Nealian). That's what I did, and once I went back to writing cursive, handwriting became much more pleasurable. But you could do it in print with a pencil. Writing is one of the cheapest and most accessible joys on earth, so don't convince yourself you need anything special to do it. 
+
 ### Where can I get more info?
 
 There is an active community on Reddit at [r/writerDeck](https://www.reddit.com/r/writerDeck/).
