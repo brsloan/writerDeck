@@ -36,6 +36,8 @@ Check out the [list of D.I.Y. writerDecks](list-of-diy-writerdecks.md) to see al
 
 [writerdeckOS](https://writerdeckos.com/) is a simple turn-key solution to turn a laptop into a dedicated writing device. You simply install the operating system as instructed and your laptop will now boot directly into a simple writing application with no internet or other apps to distract you. This is probably the cheapest and easiest solution for most writers, since you likely already have an old laptop and can always get one cheaply. And if you want to get more complicated, you can customize it to enable things like cloud backup. (writerdeckOS is not affiliated with writerdeck.org, but is recommended.)
 
+[Micro Journal PC](https://github.com/unkyulee/micro-journal-linux/blob/main/debian-live.md) allows you to boot from a USB into the same dedicated writing OS used in Un Kyu Lee's MicroJournal writerDecks so you can easily and temporarily convert any computer into a writerDeck.
+
 [USB-DOS](https://github.com/lproven/usb-dos) allows you to boot from a USB drive directly into a virtual DOS computer with basic writing software and nothing else, but it only works for older computers. You can read more about it [here](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/).
 
 ## Why wouldn't I just use my phone/tablet and a bluetooth keyboard?
