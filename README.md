@@ -38,7 +38,7 @@ Check out the [list of D.I.Y. writerDecks](list-of-diy-writerdecks.md) to see al
 
 [Micro Journal PC](https://github.com/unkyulee/micro-journal-linux/blob/main/debian-live.md) allows you to boot from a USB into the same dedicated writing OS used in Un Kyu Lee's MicroJournal writerDecks so you can easily and temporarily convert any computer into a writerDeck.
 
-[USB-DOS](https://github.com/lproven/usb-dos) allows you to boot from a USB drive directly into a virtual DOS computer with basic writing software and nothing else, but it only works for older computers. You can read more about it [here](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/).
+[USB-DOS](https://github.com/lproven/usb-dos) allows you to boot from a USB drive directly into the [DOS operating system](https://en.wikipedia.org/wiki/DOS) with a suite of writing software, but it only works for older computers. You can read more about it [here](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/).
 
 ## Why wouldn't I just use my phone/tablet and a bluetooth keyboard?
 
