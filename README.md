@@ -93,7 +93,7 @@ There are also subreddits for specific projects such as [r/ZeroWriter](https://w
 
 #### About This Guide
 
-This guide is written purely in markdown and hosted for free on Github Pages. It was started by Benjamin Sloan (creator of WareWoolf and r/writerDeck) but contributions are welcome through pull requests on [the WriterDeck Github repository](https://github.com/brsloan/writerDeck).
+This guide is written purely in markdown and hosted for free on Github Pages. Contributions are welcome through pull requests on [the WriterDeck Github repository](https://github.com/brsloan/writerDeck).
 
 #### Credit For Banner Images
 
