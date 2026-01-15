@@ -8,6 +8,7 @@ If the table below looks awful, try the [mobile version](list-of-diy-writerdecks
 
 | Date | Name | Details | Image |
 | ---- | ---- | ---- | ---- |
+| 1/7/2026 | [Typeframe PX-88](https://www.typeframe.net/docs/px-88) by u/jeffmerrick | Hardware: "Raspberry Pi 4B; Waveshare 7.9inch DSI LCD; Case: 3D printed" | [<img src="images/diy/typeframe-px-88-01.71fdfa3.2169.jpg">](/images/diy/typeframe-px-88-01.71fdfa3.2169.jpg) |
 | 8/26/2025 | [JFW](https://www.reddit.com/r/writerDeck/comments/1n0vo6o/my_jfw_writerdeck/) by u/Not_Hilary_Clinton | Hardware: "Raspberry Pi 5, SunFounder 101.1"" screen AdaFruit Trackball, Royal Kludge R65 keyboard"; Software: FocusWriter; Case: 3D printed | [<img src="images/diy/JFW.jpg">](/images/diy/JFW.jpg) |
 | 1/27/2025 | [Octavia](https://www.reddit.com/r/writerDeck/comments/1ibn4ny/presenting_the_octavia/) by u/jiadarola | Hardware: "iPad Mini 6, Epomaker EP64 keybaord"; Software: iPad Mini OS; Case: 3D printed | [<img src="images/diy/Octavia.jpg">](/images/diy/Octavia.jpg) |
 | 1/14/2025 | [Micro Journal Rev 7](https://github.com/unkyulee/micro-journal/tree/main/micro-journal-rev-7-e-ink) by Un Kyu Lee | Hardware: "ESP32.S3, Lilygo T5 e-Paper"; Software: Custom; Case: 3D printed | [<img src="images/diy/MicroJournalRev7.jpg">](/images/diy/MicroJournalRev7.jpg) |
