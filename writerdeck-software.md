@@ -22,6 +22,10 @@
    - Not a writing application, but a Linux distro packaged specifically to turn laptops into writerDecks. The writing app it uses is [Tilde](https://os.ghalkes.nl/tilde/).
    - Advantages: Easy for non-computer people to turn a laptop into an inexpensive writerDeck.
    - Disadvantages: Does not come with easy ways to self email drafts, use different writing programs, etc. (But that all can be customized, and it may have been updated since this was written--see their website.)
+- [etyper](https://github.com/Quackieduckie/etyper)
+   - Free, open source distraction-free typewriter for WeAct 4.2" e-ink on Orange Pi Zero 2W.
+   - Advantages: Extremely low cost (~$40 total BOM), foldable 3D-printed case with no supports, Bluetooth file transfer built in, partial refresh for fast typing, auto-start on boot, survives power loss, minimal soldering, 2-3h build time.
+   - Disadvantages: Small 4.2" display (300x400), no rich text formatting, ANSI QWERTY only (changeable in code), requires wired USB-C keyboard, no battery (needs 5V USB-C power source or power bank).
 - [CyberWriter](https://github.com/DarbinOrvar/CyberWriter)
    - A simple word processor written in Python for the [CyberWriter writerdeck](https://www.youtube.com/watch?v=sIItE5ro-ko).
 - [USB-DOS](https://github.com/lproven/usb-dos)
