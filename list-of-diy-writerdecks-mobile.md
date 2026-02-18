@@ -1,4 +1,11 @@
 # DIY Writer Decks (Mobile Friendly)
+## 2/15/2026: [etyper](https://github.com/Quackieduckie/etyper) ([Hackaday](https://hackaday.io/project/205065-etyper)) by Quackieduckie
+* Hardware: "Orange Pi Zero 2W, WeAct Studio 4.2" E-ink (~$40 total)"
+* Software: etyper custom open software
+* Case: 3D printed (foldable, print-in-place, no supports)
+
+[<img src="images/diy/etyper.jpg">](/images/diy/etyper.jpg)
+
 ## 8/26/2025: [JFW](https://www.reddit.com/r/writerDeck/comments/1n0vo6o/my_jfw_writerdeck/) by u/Not_Hilary_Clinton
 * Hardware: "Raspberry Pi 5, SunFounder 101.1"" screen AdaFruit Trackball, Royal Kludge R65 keyboard"
 * Software: FocusWriter
