@@ -6,6 +6,7 @@ A quick list is followed by details below.
 
 | Name | Price | Image |
 | ---- | ----- | ----- |
+| [BYOK](#byok) | $199 preorder | ![](/images/commercial/BYOK.jpg)|
 | [Micro Journal Rev 2](#micro-journal-rev-2) | $269 | ![](/images/commercial/MicroJournalRev2.jpg)|
 | [Micro Journal Rev 5](#micro-journal-rev-5) | $139 | ![](/images/commercial/MicroJournalRev5.jpg)|
 | [Micro Journal Rev 6](#micro-journal-rev-6) | $179 | ![](/images/commercial/MicroJournalRev6.jpg)|
@@ -20,6 +21,10 @@ A quick list is followed by details below.
 | [Kingjim Pomera DM100](#kingjim-pomera-dm100) | $150 | ![a clamshell style writing device with a new style LCD display](/images/commercial/pomera-dm100.jpg) |
 | [Kingjim Pomera DM250](#kingjim-pomera-dm250) | $400 | ![a clamshell style writing device with a wider new style LCD display](/images/commercial/pomera-dm250_artvsentropy.jpg) |
 | [ReMarkable Paper Tablet](#remarkable-paper-tablet) | $498 | ![an e-ink tablet with attachable keyboard](/images/commercial/remarkable-type-folio.jpg) |
+
+## [BYOK](https://byok.io/)
+
+$199 USD preorder - BYOK stands for "Bring Your Own Keyboard". A small, simple device you can connect to any keyboard for writing.
 
 ## [Micro Journal Rev 2](https://www.tindie.com/products/unkyulee/micro-journal-rev2-mother-of-twins/)
 
