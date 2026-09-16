@@ -2,9 +2,9 @@
 
 ## Written Specifically for WriterDecks
 
-- [WareWoolf](https://github.com/brsloan/warewoolf/wiki)
-   - Free, open source software specifically for use in writerDecks for writing (and editing) novels.
-   - Advantages: Designed to work well without mouse, self-email drafts function, built-in file manager, minimalist design, I wrote it...
+- [WareWoolf](https://warewoolf.org/)
+   - Free, open source software specifically for use in writerDecks for writing (and editing) novels and screenplays.
+   - Advantages: Designed to work well without mouse, self-email drafts function, built-in file manager, screenplay function with proper formatting/autofill, minimalist design, I wrote it...
    - Disadvantages: A graphical program written in Electron, so more resource hungry than terminal-based alternatives
 - [Zerowriter](https://github.com/zerowriter/zerowriter1/tree/main)
    - Free, open source software for use with e-ink, terminal-based devices.
