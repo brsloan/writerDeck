@@ -64,7 +64,7 @@ Does all that sound overwhelming to you, or painfully obvious? If the latter, yo
 
 ## WriterDeck Friendly Software
 
-Two free, open source projects dedicated specifically to writerDecks are [WareWoolf](https://github.com/brsloan/warewoolf) and [ZeroWriter](https://github.com/zerowriter/zerowriter1/tree/main), but there are many other options as well. Please see the [software page](writerdeck-software.md).
+Two free, open source projects dedicated specifically to writerDecks are [WareWoolf](https://warewoolf.org/) and [ZeroWriter](https://github.com/zerowriter/zerowriter1/tree/main), but there are many other options as well. Please see the [software page](writerdeck-software.md).
 
 ## WriterDeck Tutorials
 
